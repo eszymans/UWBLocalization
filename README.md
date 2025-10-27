@@ -18,10 +18,10 @@ Data Scaling Method: Min-Max Normalization
 
 ### Project Structure
 Code
-├── data_preparation.py   # Data loading and preprocessing
-├── MLP.py                # Neural network architecture and training logic
-├── main.py               # Main script to run the training and evaluation
-└── README.md             # Project documentatio
+- data_preparation.py   # Data loading and preprocessing
+- MLP.py                # Neural network architecture and training logic
+- main.py               # Main script to run the training and evaluation
+- README.md             # Project documentatio
 
 ### Authors
 Alicja Bartczak
